@@ -15,4 +15,6 @@ int main(int argc, char** argv) {
   scanf("%d", &idade);
   printf(" seu nome: %s\n endereco: %s\n sua idade: %d\n", nome, endereco, idade);
 	return 0;
+	quando criei o brand novo 
+	verificar se alterou isso
 }
